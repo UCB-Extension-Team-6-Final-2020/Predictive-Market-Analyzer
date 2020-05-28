@@ -1,5 +1,5 @@
 # Predictive-Market-Analyzer
-### Project Contributors - 
+### Project Contributors
 - Lesley Kirchman 
 - Raul Celorio 
 - Ping Lin
