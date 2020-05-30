@@ -26,10 +26,27 @@ In discussing potential topics for our final project, our group concluded that t
 
 Our goal is to utlize the tools we have at our disposal to develop an algorithm which will be able to predict the trajectory of our market is based on varying factors from the past. One of the questions we hope to answer is whether or not one  can predict the length of this current downturn due to the Pandemic by looking for clues in economic and market data from our historical periods?
 
-## Data Sources and tools
-AWS
-PGAdmin
-Jupyter Notebooks
+## Data Sources and Technologies Used
+### Data Cleaning and Analysis
+**Python** `Pandas` library will be used to *clean*, *prepare* and *explore* the data and perform the initial analysis;<br>
+potentially to fill in/ drop any NaN data, remove redundant columns, create binning, etc.
+
+### Database Storage
+**Postgres** is the database we intend to use for storing the data.
+
+### Machine Learning
+`SciKitLearn` and `Tensorflow` are the **Mechine Learning** libraries we'll be using. <br>
+The process is to 
+1. use **One-Hot Encoder** to understand and evaluate any categorical variables,
+2. split our preprocessed data into features and target arrays, and then the training and testing dataset,
+3. scale the data,
+4. perform either **Logic Regression**, **Support Vector Machine (SVM)**, or **Random Forest**,
+5. compare with **Basic Neural Network (1 hidden layer)**, and **Deep Learning Model Design (2 hidden layers)**
+
+
+### Dashboard
+We will utilize **Tableau** for our dashboard to create visuals for data storytelling. <br>
+It will be hosted on *Tableau Public*. 
 
 ## Final Summary (Results and Potential Applications)
 >>>>>>> master
