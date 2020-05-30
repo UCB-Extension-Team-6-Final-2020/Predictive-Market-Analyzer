@@ -48,6 +48,9 @@ The process is to
 We will utilize **Tableau** for our dashboard to create visuals for data storytelling. <br>
 It will be hosted on *Tableau Public*. 
 
+### Communication
+We will meet via Webex 3-4 times per week and then Slack each other in between our meetings.  We are also taking meeting notes and assigning responsibilites to each person at the close of each meeting.
+
 ## Final Summary (Results and Potential Applications)
 >>>>>>> master
 >>>>>>> master
