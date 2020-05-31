@@ -14,6 +14,7 @@
  
 
 * Index Information - WSJ
+We selected the index at the day of closing price for each index.
 =======
 ### Project Contributors
 - Lesley Kirchman 
