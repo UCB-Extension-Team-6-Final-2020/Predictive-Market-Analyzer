@@ -33,7 +33,7 @@ Our goal is to utlize the tools we have at our disposal to develop an algorithm 
 potentially to fill in/ drop any NaN data, remove redundant columns, create binning, etc.
 
 ### Database Storage
-**Postgres** is the database we intend to use for storing the data.
+**Postgres** is the database we intend to use for storing the data.  Click this link, https://github.com/UCB-Extension-Team-6-Final-2020/Predictive-Market-Analyzer/blob/master/images/DB-ERD.png, for the database design.
 
 ### Machine Learning
 `SciKitLearn` and `Tensorflow` are the **Mechine Learning** libraries we'll be using. <br>
