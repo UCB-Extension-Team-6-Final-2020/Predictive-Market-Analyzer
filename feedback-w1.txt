@@ -1,0 +1,21 @@
+- plot scatter or recession 
+
+neural network, feed it all
+
+- Look at module activities
+
+- normalize index by market cap
+
+- GDP data (or use the logic the fed used
+
+- run python to determine which features are relevant.
+
+- which feature is important, PCA 
+
+- black swan theory
+
+- time series - recurrent neural networks - time series forecasting - recurrent networks
+
+- Define your problem
+
+- which one of these factors is the best recession predictor?
