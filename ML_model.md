@@ -1,4 +1,8 @@
 ### Description of preliminary data preprocessing
+1. define the features set,
+2. define the target set,
+3. split into the training and testing sets,
+4. create the StandardScaler instance, fit the scaler with the training set, and scale the data.
 
 ### Description of preliminary feature engineering and preliminary feature selection, inclduing decision making process
 
