@@ -5,6 +5,11 @@
 4. create the StandardScaler instance, fit the scaler with the training set, and scale the data.
 
 ### Description of preliminary feature engineering and preliminary feature selection, inclduing decision making process
+**Feature Selection** is a critical component in a Data Scientist’s workflow. When presented data with high dimensionality, 
+1. *Training time* increases exponentially with number of features.
+2. Models have increasing risk of *overfitting* with increasing number of features.<br>
+
+For missing data, we have some options, such as Do nothing, Drop the row that has the missing value, or Fill in the row that has the missing value. In the Moduel, we use `dropna()` method to drop missing data, and `drop()` method to drop country column since only analyzing US at this point.
 
 ### Description of how data was split into training and testing data
 
