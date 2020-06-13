@@ -24,15 +24,15 @@ Our goal is to utlize the tools we have at our disposal to develop an algorithm 
 ### Relational Database
 The team will use an AWS hosted Postgres database. Below is an ERD diagram and short description of the tables. 
 
-    ![PMA Database ERD](/images/DB-ERD.png)
-    * Tables
-        * dim_time - Time dimension table to convert day,month, quarter and year.
-        * fact_cpi - Consumer Price Index (CPI) information as published by the Federal Reserve. 
-        * fact_gdp - Gross Domestic Product (GDP) information as published by the Federal Reserve.
-        * fact_inflation - Inflation percentage as published by the Federal Reserve.
-        * fact_unemployment - Unemployment percentage as published by the Federal Reserve.
-        * fact_ticker_price_by_day - Data sourced from the Wall Street Journal shows open, high, low and close from the Dow Jones Industrial Average, S & P 500 Index and S & P 500 ETF.
-        * fact_recession_indicator_by_day - Recession indicator calculated and published byt the Federal Reserve. 
+![PMA Database ERD](/images/DB-ERD.png)
+* Tables
+    * dim_time - Time dimension table to convert day,month, quarter and year.
+    * fact_cpi - Consumer Price Index (CPI) information as published by the Federal Reserve. 
+    * fact_gdp - Gross Domestic Product (GDP) information as published by the Federal Reserve.
+    * fact_inflation - Inflation percentage as published by the Federal Reserve.
+    * fact_unemployment - Unemployment percentage as published by the Federal Reserve.
+    * fact_ticker_price_by_day - Data sourced from the Wall Street Journal shows open, high, low and close from the Dow Jones Industrial Average, S & P 500 Index and S & P 500 ETF.
+    * fact_recession_indicator_by_day - Recession indicator calculated and published byt the Federal Reserve. 
 
 
 
