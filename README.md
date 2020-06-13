@@ -24,7 +24,7 @@ Our goal is to utlize the tools we have at our disposal to develop an algorithm 
 ### Relational Database
 The team will use an AWS hosted Postgres database. Below is an ERD diagram and short description of the tables. 
 
-    ![PMA Database ERD](./images/DB-ERD.png)
+    ![PMA Database ERD](/images/DB-ERD.png)
     * Tables
         * dim_time - Time dimension table to convert day,month, quarter and year.
         * fact_cpi - Consumer Price Index (CPI) information as published by the Federal Reserve. 
