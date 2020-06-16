@@ -30,3 +30,10 @@ A dataset is split into **training** and **testing** sets in machine learning. T
 5. Run efficiently on large datasets.
  
 The main **limitation** of random forest is that a large number of trees can make the algorithm *too slow and ineffective* for real-time predictions. Random Forest creates a lot of trees and require much more time to train.
+
+###	Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+
+###	Description of how they have trained the model thus far, and any additional training that will take place
+
+###	Description of current accuracy score
+
