@@ -1,2 +1,26 @@
-### This is for third week requirement ###
-lets anyone who isn’t part of the team know which packages and libraries they would need to successfully run your code
+*** Packages and Libraries ***
+The followings are the dependencies we used for the coding:
+
+import pandas as pd
+import numpy as np
+import matplotlib as plt
+import pandas_profiling as pp
+
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler,OneHotEncoder
+from sklearn.metrics import accuracy_score
+
+# Psycopg2 is the most popular python driver for PostgreSQL
+import psycopg2
+
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+
+
+
+
+
+
