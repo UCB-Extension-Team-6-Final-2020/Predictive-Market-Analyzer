@@ -20,7 +20,14 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
 
-
+## Explanation of packages used
+- Pandas - pandas is useful for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+- Numpy - adds support for large, multi-dimensional arrays along with a collection of mathematical functions to operate on these arrays.
+- matplotlib - is a plotting library. It provides an object-oriented API for embedding plots into applications.
+- pandas_profiling - Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
+- sklearn - features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, and k-means and is designed to interoperate with NumPy and SciPy.
+- Psycopg2 - Psycopg is the most popular PostgreSQL database adapter for the Python.
+- sqlalchemy - is the Python SQL toolkit and Object Relational Mapper. 
 
 
 
