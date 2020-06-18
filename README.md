@@ -1,13 +1,6 @@
-<<<<<<< DB-Commits
-
-
-=======
 # Predictive-Market-Analyzer
-<<<<<<< DB-Commits
 
 
-
-=======
 ### Project Contributors
 - Lesley Kirchman 
 - Raul Celorio 
