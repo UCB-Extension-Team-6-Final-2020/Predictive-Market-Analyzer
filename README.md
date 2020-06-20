@@ -46,13 +46,13 @@ potentially to fill in/ drop any NaN data, remove redundant columns, create binn
     * Data set provides open, high, low, and close price information. 
 
 ### Machine Learning
-`SciKitLearn` and `Tensorflow` are the **Mechine Learning** libraries we'll be using. <br>
+`SciKitLearn` and `Tensorflow` are the **Machine Learning** libraries we'll be using. <br>
 The process is to 
-1. use **One-Hot Encoder** to understand and evaluate any categorical variables,
-2. split our preprocessed data into features and target arrays, and then the training and testing dataset,
-3. scale the data,
-4. perform either **Logic Regression**, **Support Vector Machine (SVM)**, or **Random Forest**,
-5. compare with **Basic Neural Network (1 hidden layer)**, and **Deep Learning Model Design (2 hidden layers)**
+1. Use **One-Hot Encoder** to understand and evaluate any categorical variables;
+2. Split our preprocessed data into features and target arrays, and then the training and testing dataset;
+3. Scale the data;
+4. Perform either **Logic Regression**, **Support Vector Machine (SVM)**, or **Random Forest**;
+5. Compare with **Basic Neural Network (1 hidden layer)**, and **Deep Learning Model Design (2 hidden layers)**
 
 
 ### Dashboard
