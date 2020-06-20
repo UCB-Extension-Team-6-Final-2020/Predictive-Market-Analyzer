@@ -63,5 +63,5 @@ It will be hosted on *Tableau Public*.
 We will meet via Webex 3-4 times per week and then Slack each other in between our meetings.  We are also taking meeting notes and assigning responsibilites to each person at the close of each meeting.
 
 ## Final Summary (Results and Potential Applications)
-Our presentations are in the [google doc](https://docs.google.com/presentation/d/1Vt85dqjhRhlfCWyDUlidQcXHt9YOPTE0H66lATowhDQ/edit#slide=id.p).
+Our presentation can be found on [Google Drive](https://docs.google.com/presentation/d/1Vt85dqjhRhlfCWyDUlidQcXHt9YOPTE0H66lATowhDQ/edit#slide=id.p).
 
