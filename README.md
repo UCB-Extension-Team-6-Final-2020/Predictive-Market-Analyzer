@@ -65,5 +65,3 @@ We will meet via Webex 3-4 times per week and then Slack each other in between o
 ## Final Summary (Results and Potential Applications)
 Our presentations are in the [google doc](https://docs.google.com/presentation/d/1Vt85dqjhRhlfCWyDUlidQcXHt9YOPTE0H66lATowhDQ/edit#slide=id.p).
 
->>>>>>> master
->>>>>>> master
