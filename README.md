@@ -10,7 +10,7 @@
 ## Project Overview
 In discussing potential topics for our final project, our group concluded that taking a look at current events would provide the most interesting and relevant project and challenge. Ultimately, it was decided that we would take a look at the state of the stock market in general around the time of the 1970's and analyze the correlation between the state of the market and the presence of a recession to determine how we may utilize that information in the present. 
 
-Our goal is to utlize the tools we have at our disposal to develop an algorithm which will be able to predict the trajectory of our market based on COVID 19 and trends from the past. One of the questions we hope to answer is whether or not one  can predict the length of this current downturn due to the Pandemic by looking for clues in economic and market data from our historical periods.
+Our goal is to utlize the tools we have at our disposal to develop an algorithm which will be able to tell us what are the best indicators for predicting a recession and its duration. One of the questions we hope to answer is whether or not one  can predict the length of this current downturn due to the Pandemic by looking for clues in economic and market data from our historical periods.
 
 ## Data Sources and Technologies Used
 
