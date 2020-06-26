@@ -57,7 +57,7 @@ The process is to
 
 ### Dashboard
 We will utilize **Tableau** for our dashboard to create visuals for data storytelling. <br>
-It will be hosted on *Tableau Public*. 
+It will be hosted on *Tableau Public* at https://public.tableau.com/profile/lesley.kirchman8710#!/vizhome/Recession_Indicator_ML_Team6_Berkeley/ResultsDashboard?publish=yes 
 
 ### Communication
 We will meet via Webex 3-4 times per week and then Slack each other in between our meetings.  We are also taking meeting notes and assigning responsibilites to each person at the close of each meeting.
